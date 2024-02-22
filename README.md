@@ -26,15 +26,15 @@ Apache Wicket
 
 　：サーバサイド型Webアプリケーションの中で、要求の受付とHTMLの生成を担当するフレームワーク
  
-Spring Boot
+Spring Boot　3.2.3
 
 　：Springを使ったアプリケーションを簡単に作成・実行することができるようにする設定済みのひな形
  
  　　-Spring：エンタープライズシステムをJavaで開発するために必要な様々な機能を包括的に担当するフレームワーク
    
-H2DB
+H2DB　1.4.200
 
-Java
+Java　17
 
 HTML
 
