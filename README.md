@@ -53,8 +53,19 @@ MVCモデルを考慮した構成
 
 ・ユーザー登録
 
+<img width="413" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/a82da08f-a751-4092-a3e9-2d70602ba56d">
+
+
 ・ログイン機能
+
+<img width="294" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/56bac4ce-3fcf-463f-8bd1-48df9f06bf53">
+
 
 ・登録したユーザーの一覧の閲覧
 
+<img width="344" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/55ccb1ae-647c-4734-8f14-8cefb0f5ea06">
+
 ・ログイン後の疑似チャット機能
+
+<img width="269" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/404a2d8b-e5b9-495a-90ad-66eaa5c0f732">
+
