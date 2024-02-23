@@ -43,8 +43,9 @@ HTML
 
 MVCモデルを考慮した構成
 
-<img width="539" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/e427147a-d0c6-4f68-8bba-c398fee10d83">
+<img width="539" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/b5cc0f89-3644-4375-87cf-c7a451a261a2">
 
-　-MVCモデル：プログラムを役割ごとにModel（モデル）・View（ビュー）・Controller（コントローラー）の3つに分けて管理するソフトウェア設計モデル
+
+　-MVCモデル：プログラムを役割ごとにModel・View・Controllerの3つに分けて管理するソフトウェア設計モデル
  
  
