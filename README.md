@@ -45,7 +45,8 @@ HTML
  
 　M：serviceフォルダー
  
-　V：pageフォルダー<img width="45" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/e322a17c-e090-4e2e-8c7d-c0fd07b09908">
+　V：pageフォルダ <img width="43" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/c0f56e4c-aeaa-4270-a3f8-636e1156f282">
+
 
  
 　C：repositoryフォルダー 
