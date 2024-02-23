@@ -39,12 +39,13 @@ Java　17
 HTML
 
 
-## MVCモデルを意識した構造
+## 構成図
 
 　-MVCモデル：プログラムを役割ごとにModel（モデル）・View（ビュー）・Controller（コントローラー）の3つに分けて管理するソフトウェア設計モデル
  
 　M：serviceフォルダー
  
-　V：pageフォルダー
+　V：pageフォルダー<img width="45" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/e322a17c-e090-4e2e-8c7d-c0fd07b09908">
+
  
 　C：repositoryフォルダー 
