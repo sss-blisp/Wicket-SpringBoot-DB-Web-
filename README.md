@@ -41,12 +41,10 @@ HTML
 
 ## 構成図
 
+MVCモデルを考慮した構成
+
+<img width="539" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/e427147a-d0c6-4f68-8bba-c398fee10d83">
+
 　-MVCモデル：プログラムを役割ごとにModel（モデル）・View（ビュー）・Controller（コントローラー）の3つに分けて管理するソフトウェア設計モデル
  
-　M：serviceフォルダー
  
-　V：pageフォルダ <img width="43" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/c0f56e4c-aeaa-4270-a3f8-636e1156f282">
-
-
- 
-　C：repositoryフォルダー 
