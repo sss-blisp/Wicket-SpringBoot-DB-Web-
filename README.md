@@ -43,7 +43,8 @@ HTML
 
 MVCモデルを考慮した構成
 
-<img width="470" alt="image" src="https://github.com/sss-blisp/Wicket-SpringBoot-DB-Web-/assets/139861013/f5d219af-cdc8-4bdc-a158-420607917901">
+![image](https://github.com/user-attachments/assets/8c83e14e-2534-40e6-9ede-ac5261e148ab)
+
 
 
 
